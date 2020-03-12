@@ -236,7 +236,7 @@ else
 			these are your Twitter API keys, secrets and tokens.
 			Go to https://developer.twitter.com/ to create an app, and get these info.
 			
-			Also keep in minde this happened once, could happen again:
+			Also keep in mind this happened once, could happen again:
 			https://stackoverflow.com/questions/59858831/twitter-api-tells-me-media-type-unrecognized-for-images-that-always-worked
 		
 		*/
