@@ -6,7 +6,7 @@
 	and adds the map to it too.
 	
 	Also if the location repeated it selects another flavor text about repetaion,
-	this one I wanted to automate but never done it as it is rare the locationr
+	this one I wanted to automate but never done it as it is rare the location
 	repeats.
 	
 	Created by Ákos Nikházy 2019-2020
